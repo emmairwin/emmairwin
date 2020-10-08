@@ -18,11 +18,12 @@ Hi there!
 
 My name is Emma Irwin
 
-- 🔭 I’m currently working on Open Source @ Microsoft (and beyond)
+- ⚡ I used to work at Mozilla, Bentech and Royal Roads Uniersity.
+- 🔭 I’m currently working on my dream job: Open Source @ Microsoft.
 - 🌱 I’m currently learning all I can.
 - 👯 I’m looking to collaborate on open source, especially OSPOs,  inclusion and metrics in open source.
 - 🤔 I’m looking for help with any contrbituion or interest in building up /mozilla/diversity 
-- 💬 Ask me about open source,  Canada West Coast, parenting during a pandemic, geocaching, optimism.
+- 💬 Ask me about open source,  Canada West Coast, parenting during a pandemic, geocaching, dogs, cats, optimism.
 - 📫 How to reach me: email in my profile, @sunnydeveloper on Twitter and https://www.linkedin.com/in/emmamirwin/ on LinkedIn.
 - 😄 Pronouns: she/her
 
