@@ -18,8 +18,8 @@ Hi there!
 
 My name is Emma Irwin
 
+- 🔭 I’m currently working at my dream job: Open Source @ Microsoft
 - ⚡ I used to work at Mozilla, Benetech and Royal Roads Uniersity.
-- 🔭 I’m currently working at my dream job: Open Source @ Microsoft.
 - 🌱 I’m currently learning all I can.
 - 👯 I’m looking to collaborate on open source, especially OSPOs,  inclusion and metrics in open source.
 - 🤔 I’m looking for help with any contribution or interest in building up https://github.com/mozilla/diversity (but watch this space for more).
