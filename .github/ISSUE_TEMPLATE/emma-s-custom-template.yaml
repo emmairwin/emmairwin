@@ -2,6 +2,8 @@ name: Bug Report
 description: File a bug report for Hydra Gaming
 title: "[Bug]: "
 labels: ["bug", "triage"]
+assignees:
+- emmairwin
 body:
   - type: markdown
     attributes:
