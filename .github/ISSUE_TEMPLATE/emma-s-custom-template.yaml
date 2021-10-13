@@ -30,15 +30,13 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
-   - type: dropdown
-     id: browsers
-     attributes:
-     label: How would you describe your experience in game development?
-     description: this will help us in our feedback, as well as improving contributor experience.  
-     multiple: true
-     options:
-        - Student/Learning
-        - Independent game developer
-        - Game developer at a company/org
-        - Hobbiest (I do this for fun)
-        - Other
+    - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
