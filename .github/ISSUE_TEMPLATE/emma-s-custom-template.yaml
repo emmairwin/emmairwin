@@ -36,7 +36,8 @@ body:
       label: How would you describe your experience in game development?
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - Student
+        - Independent game developer
+        - Game developer at a company/org
+        - Hobbiest (I do this for fun)
+        - Other
