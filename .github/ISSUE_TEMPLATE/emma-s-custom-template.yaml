@@ -38,7 +38,3 @@ body:
      multiple: true
      options:
         - Student/Learning
-        - Independent game developer
-        - Game developer at a company/org
-        - Hobbiest (I do this for fun)
-        - Other
