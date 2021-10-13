@@ -19,7 +19,7 @@ Hi there!
 My name is Emma Irwin
 
 - 🔭 I’m currently working at my dream job: Open Source @ Microsoft
-- ⚡ Previously @ Mozilla, Benetech and Royal Roads Uniersity.
+- ⚡ Previously @ Mozilla, Benetech and Royal Roads University.
 - 🌱 I’m currently learning all I can.
 - 👯 I’m looking to collaborate on open source, especially OSPOs,  inclusion and metrics in open source.
 - 💬 Ask me about open source,  Canada West Coast, parenting during a pandemic, geocaching, dogs, cats, optimism.
