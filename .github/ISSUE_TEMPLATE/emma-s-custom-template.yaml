@@ -31,9 +31,9 @@ body:
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
   - type: dropdown
-    id: browsers
+    id: aboutyou
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: How would you describe your experience in game development?
       multiple: true
       options:
         - Firefox
