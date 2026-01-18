@@ -1,4 +1,4 @@
-
 github: emmairwin
-custom:  ['https://github.com/oss-wishlist/wishlists/issues/19']
-
+custom:
+  - https://github.com/oss-wishlist/wishlists/issues/19
+  - https://github.com/oss-wishlist/wishlists/issues/23
