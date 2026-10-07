@@ -2,7 +2,7 @@
 
 Hi, my name is Emma. If we haven’t met before, the most important thing to know about me is that I care deeply about openness. I believe in the power of intentional transparency to drive democratization and to create opportunity for everyone.
 
-I have helped organizations like Benetech, Royal Roads University, Mozilla, and Microsoft build and run successful strategies for consuming, releasing, growing and contributing in the open.
+I have helped organizations like Benetech, Royal Roads University, Mozilla, Microsoft and the Internet Society build and run successful strategies for consuming, releasing, growing and contributing in the open.
 
 I live in Sooke, British Columbia Canada. 
 
