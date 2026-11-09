@@ -40,9 +40,9 @@ The dependency gets exponential when you consider how much large language models
 
 Some numbers, from specific datasets (these aren't industry-wide totals, just examples):
 
-- **900 billion** tokens of code in The Stack v2, used to train StarCoder2
+- **900 billion** unique tokens of code and related content in The Stack v2, used to train StarCoder2
 - **3 trillion** tokens in Dolma, including Wikipedia, web content, books and code
-- **28 billion** tokens of arXiv research papers in RedPajama
+- **28 billion** tokens of arXiv research papers in RedPajama-V1
 - **1.3 trillion** tokens of educational web content in FineWeb-Edu
 
 The big point: AI doesn't just depend on the *content* of open communities. It depends on the knowledge, expertise, governance and values that *produce* that content. These communities are creators of context. That's the phrase I keep coming back to.
